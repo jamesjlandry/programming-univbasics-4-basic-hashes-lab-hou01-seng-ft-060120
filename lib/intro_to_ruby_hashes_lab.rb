@@ -3,8 +3,7 @@ def new_hash
 end
 
 def my_hash
-  {
-    name: "bob",
+  { name: "bob",
     occupation: "builder"
   }
 end
