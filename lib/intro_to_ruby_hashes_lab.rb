@@ -1,7 +1,5 @@
 def new_hash
-  hashy_mchasherson = {
-    
-  }
+  {}
 end
 
 def my_hash
