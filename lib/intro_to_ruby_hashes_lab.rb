@@ -1,5 +1,7 @@
 def new_hash
-  # return an empty hash
+  hashy_mchasherson = {
+    
+  }
 end
 
 def my_hash
